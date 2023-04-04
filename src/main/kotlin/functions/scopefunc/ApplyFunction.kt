@@ -1,4 +1,4 @@
-package functions
+package functions.scopefunc
 data class Dev(var name:String, var lang:String){
     constructor() : this("","")
 }

@@ -1,4 +1,4 @@
-package functions
+package functions.scopefunc
 
 fun randomFunc(param:String?){
     println("Parametrer -> $param ")

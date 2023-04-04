@@ -1,4 +1,4 @@
-package functions
+package functions.scopefunc
 
 fun printUpper(str:String){
     print("$str -> ${str.uppercase()}")

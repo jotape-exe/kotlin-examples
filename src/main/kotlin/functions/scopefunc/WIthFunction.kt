@@ -1,4 +1,4 @@
-package functions
+package functions.scopefunc
 
 data class Config(val host:String, val port:String)
 
