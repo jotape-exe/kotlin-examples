@@ -1,4 +1,4 @@
-package exhandling
+package exceptions
 
 fun divise(x:Int, y:Int){
     try {
